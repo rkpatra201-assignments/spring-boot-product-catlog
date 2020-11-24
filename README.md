@@ -4,6 +4,7 @@
 `mvn spring-boot:run`
 
 # SWAGGER
+* http://localhost:8080/swagger-ui.html
 ![image](https://user-images.githubusercontent.com/17001948/100111625-46a22100-2e94-11eb-8f7f-de63f13e0bd7.png)
 
 ## GET API

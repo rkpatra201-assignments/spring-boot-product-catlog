@@ -23,7 +23,6 @@ public class ProductResultController {
     @Autowired
     private ProductDaoImpl productDao;
 
-
     @GetMapping("/{sku}")
     public Object getBySku(@PathVariable String sku) {
         return productDao.findBySku(sku);
