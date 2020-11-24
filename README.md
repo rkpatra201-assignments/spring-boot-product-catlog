@@ -1,4 +1,8 @@
 # spring-boot-product-catlog
+* spring boot
+* spring jdbc
+* spring with h2 in memory database
+* swagger docs
 
 # RUN
 `mvn spring-boot:run`
