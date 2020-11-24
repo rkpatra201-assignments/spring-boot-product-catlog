@@ -1,0 +1,22 @@
+{
+  "id": 2,
+  "sku": "ct-xyzvwt",
+  "name": "Puma Dark Socks",
+  "price": 210.45,
+  "color": "RED",
+  "size": "L",
+  "status": "SALE",
+  "category": {
+    "id": 2,
+    "name": "SOCKS"
+  },
+  "brand": {
+    "id": 1,
+    "name": "PUMA"
+  },
+  "seller": {
+    "id": 1,
+    "name": "cloudtail",
+    "skuPrefix": null
+  }
+}
