@@ -1,5 +1,11 @@
 # spring-boot-product-catlog
 
+# RUN
+`mvn spring-bot:run`
+
+# SWAGGER
+![image](https://user-images.githubusercontent.com/17001948/100111625-46a22100-2e94-11eb-8f7f-de63f13e0bd7.png)
+
 ## GET API
 * http://localhost:8080/products/ss-xyzew
 * http://localhost:8080/products/groups/color
